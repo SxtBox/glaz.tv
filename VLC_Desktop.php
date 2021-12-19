@@ -1,6 +1,5 @@
 <?php
 /*
-Player Generated From https://demo.kodi.al/My_Tools/Players_Tools/Player_Builder/Clappr_Player/
 Channels https://www.glaz.tv/online-tv/
 USE ?url=TV NAME
 EXAMPLE ?url=tv-centr - ?url=tnt-online ETC....
