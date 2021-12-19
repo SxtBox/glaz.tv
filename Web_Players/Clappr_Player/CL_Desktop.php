@@ -12,7 +12,7 @@ $get_url = isset($_GET["url"]) && !empty($_GET["url"]) ? $_GET["url"] : "rtr-pla
 function get_data($url) {
     $ch = curl_init();
     $timeout = 2;
-	$referenca = ($url);
+    $referenca = ($url);
     curl_setopt($ch, CURLOPT_URL, $url);
     curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
     curl_setopt($ch, CURLOPT_USERAGENT, "iPhone");
